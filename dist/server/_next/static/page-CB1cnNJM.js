@@ -1,0 +1,1 @@
+import{n as e}from"./navigation-errors-CVpTO4SL.js";import"./navigation.react-server-FaxIjouX.js";function t(){e(`/app/dashboard`)}export{t as default};

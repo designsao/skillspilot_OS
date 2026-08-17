@@ -1,0 +1,1 @@
+import{t as e}from"./framework~index~page~page~page~page~page~page~page~page~page~page~layout~page~not-found~pag~dkwlraqg-Cc05sOw4.js";import{r as t}from"./skillpilot-BN6VOZjB.js";var n=e();function r(){return(0,n.jsx)(t,{})}export{r as default};
